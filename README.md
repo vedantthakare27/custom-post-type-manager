@@ -18,7 +18,7 @@ This is a WordPress plugin that lets you create and manage custom post types dir
 
 ## 📸 Screenshot
 
-_Add a screenshot here showing the plugin form or sidebar if you'd like!_
+(https://github.com/vedantthakare27/custom-post-type-manager/blob/main/Screenshot.png?raw=true)
 
 ## 🧑‍💻 Author
 
